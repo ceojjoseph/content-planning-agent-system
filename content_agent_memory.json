@@ -1,0 +1,460 @@
+{
+  "completed_tasks": [
+    "run:build trust by teaching how i am learning ai agents from zero:topics",
+    "run:build trust by teaching how i am learning ai agents from zero:post_1",
+    "run:build trust by teaching how i am learning ai agents from zero:post_2",
+    "run:build trust by teaching how i am learning ai agents from zero:post_3",
+    "run:build trust by teaching how i am learning ai agents from zero:hashtags",
+    "run:build trust by teaching how i am learning ai agents from zero:schedule",
+    "run:build trust by documenting my journey learning ai agents from zero:topics",
+    "run:build trust by documenting my journey learning ai agents from zero:post_1",
+    "run:build trust by documenting my journey learning ai agents from zero:post_2",
+    "run:build trust by documenting my journey learning ai agents from zero:post_3",
+    "run:build trust by documenting my journey learning ai agents from zero:hashtags",
+    "run:build trust by documenting my journey learning ai agents from zero:schedule"
+  ],
+  "work_log": [
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "topics",
+      "tool": "generate_topics",
+      "args": {
+        "goal": "Build trust by teaching how I am learning AI agents from zero",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive"
+      },
+      "status": "completed",
+      "output": "['Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid', 'Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap', 'Build trust by teaching how I am learning AI agents from zero: what I wi...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "post_1",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action toda...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "post_2",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take o...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "post_3",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one acti...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "hashtags",
+      "tool": "hashtags",
+      "args": {
+        "niche": "AI"
+      },
+      "status": "completed",
+      "output": "['#contentstrategy', '#creator', '#marketing', '#smallbusiness', '#consistency', '#ai', '#aiautomation', '#aigent', '#promptengineering', '#futureofwork']"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "task": "schedule",
+      "tool": "schedule",
+      "args": {
+        "topics": [
+          "Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid",
+          "Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap",
+          "Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier",
+          "Build trust by teaching how I am learning AI agents from zero: tools and resources I actually use",
+          "Build trust by teaching how I am learning AI agents from zero: quick wins you can do this week"
+        ]
+      },
+      "status": "completed",
+      "output": "[{'day': 'Mon', 'topic': 'Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid'}, {'day': 'Tue', 'topic': 'Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap'}, {'day': 'Wed', 'topic':...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "topics",
+      "tool": "generate_topics",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "post_1",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "post_2",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "post_3",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "hashtags",
+      "tool": "hashtags",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T17:30:09",
+      "task": "schedule",
+      "tool": "schedule",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "topics",
+      "tool": "generate_topics",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "post_1",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "post_2",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "post_3",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "hashtags",
+      "tool": "hashtags",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T18:52:19",
+      "task": "schedule",
+      "tool": "schedule",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "task": "topics",
+      "tool": "generate_topics",
+      "args": {
+        "goal": "Build trust by documenting my journey learning AI agents from zero",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive"
+      },
+      "status": "completed",
+      "output": "['Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid', 'Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap', 'Build trust by documenting my journey learning AI agents from ...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "task": "post_1",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "task": "post_2",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: T...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "task": "post_3",
+      "tool": "draft_post",
+      "args": {
+        "topic": "Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier",
+        "audience": "busy entrepreneurs who want to level up",
+        "tone": "direct, practical, supportive",
+        "cta": "Comment 'PLAN' and I will share the next steps."
+      },
+      "status": "completed",
+      "output": "Hook: Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "task": "hashtags",
+      "tool": "hashtags",
+      "args": {
+        "niche": "AI"
+      },
+      "status": "completed",
+      "output": "['#contentstrategy', '#creator', '#marketing', '#smallbusiness', '#consistency', '#ai', '#aiautomation', '#aigent', '#promptengineering', '#futureofwork']"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "task": "schedule",
+      "tool": "schedule",
+      "args": {
+        "topics": [
+          "Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid",
+          "Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap",
+          "Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier",
+          "Build trust by documenting my journey learning AI agents from zero: tools and resources I actually use",
+          "Build trust by documenting my journey learning AI agents from zero: quick wins you can do this week"
+        ]
+      },
+      "status": "completed",
+      "output": "[{'day': 'Mon', 'topic': 'Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid'}, {'day': 'Tue', 'topic': 'Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap'}, {'day': 'Wed'...(truncated)"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "topics",
+      "tool": "generate_topics",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "post_1",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "post_2",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "post_3",
+      "tool": "draft_post",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "hashtags",
+      "tool": "hashtags",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    },
+    {
+      "timestamp": "2026-01-04T19:28:44",
+      "task": "schedule",
+      "tool": "schedule",
+      "status": "skipped",
+      "reason": "Already completed for this goal"
+    }
+  ],
+  "content_library": [
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "topics",
+      "tool": "generate_topics",
+      "data": [
+        "Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid",
+        "Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap",
+        "Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier",
+        "Build trust by teaching how I am learning AI agents from zero: tools and resources I actually use",
+        "Build trust by teaching how I am learning AI agents from zero: quick wins you can do this week"
+      ]
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "post_1",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "post_2",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "post_3",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "hashtags",
+      "tool": "hashtags",
+      "data": [
+        "#contentstrategy",
+        "#creator",
+        "#marketing",
+        "#smallbusiness",
+        "#consistency",
+        "#ai",
+        "#aiautomation",
+        "#aigent",
+        "#promptengineering",
+        "#futureofwork"
+      ]
+    },
+    {
+      "timestamp": "2026-01-04T17:17:58",
+      "goal": "Build trust by teaching how I am learning AI agents from zero",
+      "asset_type": "schedule",
+      "tool": "schedule",
+      "data": [
+        {
+          "day": "Mon",
+          "topic": "Build trust by teaching how I am learning AI agents from zero: 3 mistakes to avoid"
+        },
+        {
+          "day": "Tue",
+          "topic": "Build trust by teaching how I am learning AI agents from zero: the step-by-step beginner roadmap"
+        },
+        {
+          "day": "Wed",
+          "topic": "Build trust by teaching how I am learning AI agents from zero: what I wish I knew earlier"
+        },
+        {
+          "day": "Thu",
+          "topic": "Build trust by teaching how I am learning AI agents from zero: tools and resources I actually use"
+        },
+        {
+          "day": "Fri",
+          "topic": "Build trust by teaching how I am learning AI agents from zero: quick wins you can do this week"
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "topics",
+      "tool": "generate_topics",
+      "data": [
+        "Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid",
+        "Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap",
+        "Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier",
+        "Build trust by documenting my journey learning AI agents from zero: tools and resources I actually use",
+        "Build trust by documenting my journey learning AI agents from zero: quick wins you can do this week"
+      ]
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "post_1",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:52",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "post_2",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "post_3",
+      "tool": "draft_post",
+      "data": "Hook: Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier\n\nFor busy entrepreneurs who want to level up:\n- Key point 1: Keep it simple and consistent.\n- Key point 2: Focus on one clear takeaway.\n- Key point 3: Take one action today.\n\nTone: direct, practical, supportive\nCTA: Comment 'PLAN' and I will share the next steps.\n"
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "hashtags",
+      "tool": "hashtags",
+      "data": [
+        "#contentstrategy",
+        "#creator",
+        "#marketing",
+        "#smallbusiness",
+        "#consistency",
+        "#ai",
+        "#aiautomation",
+        "#aigent",
+        "#promptengineering",
+        "#futureofwork"
+      ]
+    },
+    {
+      "timestamp": "2026-01-04T19:17:53",
+      "goal": "Build trust by documenting my journey learning AI agents from zero",
+      "asset_type": "schedule",
+      "tool": "schedule",
+      "data": [
+        {
+          "day": "Mon",
+          "topic": "Build trust by documenting my journey learning AI agents from zero: 3 mistakes to avoid"
+        },
+        {
+          "day": "Tue",
+          "topic": "Build trust by documenting my journey learning AI agents from zero: the step-by-step beginner roadmap"
+        },
+        {
+          "day": "Wed",
+          "topic": "Build trust by documenting my journey learning AI agents from zero: what I wish I knew earlier"
+        },
+        {
+          "day": "Thu",
+          "topic": "Build trust by documenting my journey learning AI agents from zero: tools and resources I actually use"
+        },
+        {
+          "day": "Fri",
+          "topic": "Build trust by documenting my journey learning AI agents from zero: quick wins you can do this week"
+        }
+      ]
+    }
+  ]
+}
